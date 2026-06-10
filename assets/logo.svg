@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 64" role="img" aria-label="ASKERP">
+  <rect x="0" y="4" width="56" height="56" rx="14" fill="#2C3E50"/>
+  <path d="M14 44V20h10c8 0 12 4 12 10 0 5-2 8-6 9l8 9h-9l-7-7h-2v8H14zm9-16h1c3 0 5-1 5-4s-2-4-5-4h-1v8z" fill="#fff"/>
+  <rect x="44" y="20" width="8" height="24" rx="2" fill="#27AE60"/>
+  <text x="72" y="44" font-family="Segoe UI, Tahoma, Arial, sans-serif" font-size="32" font-weight="700" fill="#2C3E50">ASKERP</text>
+</svg>
